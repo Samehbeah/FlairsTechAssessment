@@ -1,0 +1,6 @@
+pages\AddUserPage.class
+pages\LoginPage.class
+pages\HomePage.class
+pages\Helper.class
+pages\PageBase.class
+pages\SystemUsersPage.class
